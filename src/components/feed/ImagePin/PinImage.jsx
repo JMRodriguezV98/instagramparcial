@@ -28,7 +28,6 @@ const PinImage = (props) => {
       padding: 0,
       height: '100%',
       width: '100%',
-      /*borderRadius: '16px',*/
       aspectRatio: 1,
       gridColumn: '1/2',
       gridRow: '1/2',
