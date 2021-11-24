@@ -15,6 +15,16 @@ Dentro de este macro componente se encuentran todos los componentes que sirven p
 
 ![Login](https://user-images.githubusercontent.com/89543370/143326035-42f030be-f16a-4452-9d5a-582547b49ceb.png)
 
+**En la aplicacion los componentes fueron nombrados de la siguiente manera**
+
+- LoginLayout.jsx
+- Promo.jsx
+- LoginSection.jsx
+- Login.jsx
+- RestarPass.jsx
+- Info.jsx
+- Intereses.jsx
+
 La carpeta HeaderDesktop es utilizada para crear el Header del pagina con los siguientes componentes:
 - HeaderDesk.jsx
 - HeaderImage.jsx
