@@ -1,4 +1,4 @@
-#Tercer parcial Frontend (Instagram)
+##Tercer parcial Frontend (Instagram)
 
 La carpeta HeaderDesktop es utilizada para crear el Header del pagina con los siguientes componentes:
 - HeaderDesk.jsx
