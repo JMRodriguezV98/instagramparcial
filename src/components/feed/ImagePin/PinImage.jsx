@@ -53,12 +53,7 @@ const PinImage = (props) => {
         src={props.image}
         style={_stylesPinImage.image}
         alt='img'
-        /*
-        onMouseEnter={() => setHover('grid')}*/
       />
-      {/* Llamamos el hover desde otra clase, 
-      sin embargo el encargado del estado es el PinImage, 
-      como una clase principal.*/}
     </div>
   );
 };
