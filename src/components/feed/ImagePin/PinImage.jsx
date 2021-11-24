@@ -1,9 +1,7 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 // Este componente contiene la imagen del pin y el hover de la misma
 const PinImage = (props) => {
-  // Estado para el hover de la imagen
-  const [hover, setHover] = useState('none');
 
   // Estos son los estilos propios de la imagen
   const _stylesPinImage = {
