@@ -25,6 +25,11 @@ Dentro de este macro componente se encuentran todos los componentes que sirven p
 - Info.jsx
 - Intereses.jsx
 
+Siento LoginLayout el contenedor principal, en **Promo** tenemos las imagenes de los iphones, **LoginSection** es el espacio donde se encuentran los campos
+de inicio de sesion y el componente **Login** que es la funcionalidad de iniciar sesion con Google, en el componente **RestarPass** se encuentra
+la opcion de restablecer contraseña, este campo al igual que los inputs son meramente esteticos para dar similitud a la aplicacion original
+en el footer tenemos el componente **Info** que a su vez contiene los componentes **Intereses** los cuales forman la parte final.
+
 La carpeta HeaderDesktop es utilizada para crear el Header del pagina con los siguientes componentes:
 - HeaderDesk.jsx
 - HeaderImage.jsx
