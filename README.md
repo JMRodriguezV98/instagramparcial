@@ -1,8 +1,8 @@
 ## Tercer parcial Frontend (Instagram)
 
 Entrega final para la materia de Frontend, Universidad de San Buenaventura Cali
-- ** Jhon Robert Uribe 30000026618 **
-- ** Javier Mauricio Rodriguez Villamil 30000036934 **
+- ** **Jhon Robert Uribe 30000026618
+- **Javier Mauricio Rodriguez Villamil 30000036934**
 
 La carpeta HeaderDesktop es utilizada para crear el Header del pagina con los siguientes componentes:
 - HeaderDesk.jsx
