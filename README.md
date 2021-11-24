@@ -1,3 +1,5 @@
+#Tercer parcial Frontend (Instagram)
+
 La carpeta HeaderDesktop es utilizada para crear el Header del pagina con los siguientes componentes:
 - HeaderDesk.jsx
 - HeaderImage.jsx
@@ -29,5 +31,3 @@ UserAdd
 - AddeUsers.jsx
 - OtherUsers.jsx
 Es un carpeta donde se usa para colocar el usario que inicio seccion y sus seguidores con la informacion.
-
-![Login](https://user-images.githubusercontent.com/89543370/143326035-42f030be-f16a-4452-9d5a-582547b49ceb.png)
