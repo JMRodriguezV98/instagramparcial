@@ -61,3 +61,5 @@ UserAdd
 - AddeUsers.jsx
 - OtherUsers.jsx
 Es un carpeta donde se usa para colocar el usario que inicio seccion y sus seguidores con la informacion.
+Creamos a FeedLayout.jsx donde mostramos los Pincard y los demas componentes
+![unknown](https://user-images.githubusercontent.com/89543370/143328923-d1b2e651-a20d-495d-9ab3-68ffb25e64c1.png)
